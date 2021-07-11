@@ -1,0 +1,26 @@
+.top {
+    text-align: center;
+    margin-top: 25px;
+}
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+.box_border {
+    border: 2px solid;
+    padding-top: 20px;
+}
+.box {
+    min-height: 60px;
+    background-color: aqua;
+    margin-bottom: 25px;
+}
+.box_size {
+    height: 250px;
+    border: 1px solid brown;
+}
+.internal_border {
+    border: 2px solid brown;
+    padding-top: 25px;
+    margin-bottom: 15px;
+}
